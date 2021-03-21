@@ -1,0 +1,13 @@
+C:\Users\Nelli Pepper\source\repos\ElectionApp\bin\Debug\netcoreapp3.1\ElectionApp.exe
+C:\Users\Nelli Pepper\source\repos\ElectionApp\bin\Debug\netcoreapp3.1\ElectionApp.deps.json
+C:\Users\Nelli Pepper\source\repos\ElectionApp\bin\Debug\netcoreapp3.1\ElectionApp.runtimeconfig.json
+C:\Users\Nelli Pepper\source\repos\ElectionApp\bin\Debug\netcoreapp3.1\ElectionApp.runtimeconfig.dev.json
+C:\Users\Nelli Pepper\source\repos\ElectionApp\bin\Debug\netcoreapp3.1\ElectionApp.dll
+C:\Users\Nelli Pepper\source\repos\ElectionApp\bin\Debug\netcoreapp3.1\ElectionApp.pdb
+C:\Users\Nelli Pepper\source\repos\ElectionApp\obj\Debug\netcoreapp3.1\ElectionApp.csprojAssemblyReference.cache
+C:\Users\Nelli Pepper\source\repos\ElectionApp\obj\Debug\netcoreapp3.1\ElectionApp.AssemblyInfoInputs.cache
+C:\Users\Nelli Pepper\source\repos\ElectionApp\obj\Debug\netcoreapp3.1\ElectionApp.AssemblyInfo.cs
+C:\Users\Nelli Pepper\source\repos\ElectionApp\obj\Debug\netcoreapp3.1\ElectionApp.csproj.CoreCompileInputs.cache
+C:\Users\Nelli Pepper\source\repos\ElectionApp\obj\Debug\netcoreapp3.1\ElectionApp.dll
+C:\Users\Nelli Pepper\source\repos\ElectionApp\obj\Debug\netcoreapp3.1\ElectionApp.pdb
+C:\Users\Nelli Pepper\source\repos\ElectionApp\obj\Debug\netcoreapp3.1\ElectionApp.genruntimeconfig.cache
